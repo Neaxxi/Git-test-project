@@ -1,1 +1,1 @@
-print("I am a beginner with Git")
+print("I am a beginner with Git and it's hard to learn.")
